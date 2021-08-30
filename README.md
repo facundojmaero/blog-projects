@@ -1,2 +1,3 @@
 # blog-projects
-Projects discussed in blog articles
+
+This repo contains the full code of projects discussed in my blog.

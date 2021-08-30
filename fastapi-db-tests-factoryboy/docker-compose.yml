@@ -1,0 +1,12 @@
+version: "3.7"
+
+services:
+  db-f1:
+    image: postgres:13
+    environment:
+      - PGDATA=/var/lib/postgresql/data/pgdata
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=password
+      - POSTGRES_DB=f1.db
+    ports:
+      - 5432:5432
