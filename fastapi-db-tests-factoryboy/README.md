@@ -1,6 +1,6 @@
 # Writing FastAPI database tests with SQLAlchemy and PostgreSQL
 
-This is the companion code of the article at []()
+This is the companion code of the article found [here](https://facundojmaero.github.io/blog/2021/08/fastapi-db-tests/)
 
 ## Set up
 
